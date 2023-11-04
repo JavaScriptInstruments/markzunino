@@ -21,27 +21,28 @@ export default function About() {
           <div>
             <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
               <p className="text-base font-semibold leading-7 text-gray-600">
-                About Mark Zunino
+                About me
               </p>
               <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                Connecticut Based Fine Artist
+                I&apos;m an Connecticut Based Fine Artist
               </h1>
               <div className="max-w-xl">
                 <p className="mt-6">
-                  Mark Zunino is a Printmaker/Painter who teaches drawing, and
-                  printmaking at the Loomis Chaffee School in Windsor, CT. He
-                  received his BFA from the University of Hartford&apos;s
-                  Hartford Art School and his MFA in Printmaking from the
-                  University of Massachusetts, Amherst. Mark has exhibited his
-                  prints and paintings in institutions such as the Fort Wayne
-                  Museum of Art, Fort Wayne, IN, the Portland Museum of Art,
-                  Portland, ME, and Vose Galleries, Boston, MA, as well as in
-                  international exhibitions in the Czech Republic, New Zealand,
-                  and the UK. His work is in the permanent collection of the
-                  Yale Art Gallery, New Haven, CT, DeCordova Museum and
-                  Sculpture Park, Lincoln, MA and the Hood Art Museum, Dartmouth
-                  College, Hanover, NH, amongst many other public and private
-                  collections.
+                  I am a painter and printmaker who also teaches drawing and
+                  printmaking at the Loomis Chaffee School in Windsor,
+                  Connecticut. I obtained my MFA in Printmaking from the
+                  University of Massachusetts, Amherst, and my BFA from the
+                  Hartford Art School at the University of Hartford. My prints
+                  and paintings have been shown in national and international
+                  exhibitions in the Czech Republic, New Zealand, and the United
+                  Kingdom, as well as in establishments including the Fort Wayne
+                  Museum of Art in Fort Wayne, IN, the Portland Museum of Art in
+                  Portland, ME, and Vose Galleries in Boston, MA. Among many
+                  other public and private collections, my work is included in
+                  the permanent collections of the Yale Art Gallery in New
+                  Haven, CT; the DeCordova Museum and Sculpture Park in Lincoln,
+                  MA; and the Hood Art Museum at Dartmouth College in Hanover,
+                  NH.
                 </p>
               </div>
             </div>

@@ -50,7 +50,7 @@ export default function Form() {
             Place an enquiry
           </h2>
           <p className="mt-1 text-sm leading-6 text-gray-600">
-            Drop me a message to inquire about having my work featured in your
+            Drop me a message to enquire about having my work featured in your
             gallery.
           </p>
 

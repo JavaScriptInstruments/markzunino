@@ -73,7 +73,7 @@ export default function Example() {
             </div>
           </div>
         </div>
-        <h3 className="text-sm leading-6 text-white text-right">
+        <h3 className="text-sm leading-6 text-white text-right mt-20">
           Copyright © 2023 Mark Zunino. All Rights Reserved.
         </h3>
       </div>

@@ -7,12 +7,12 @@ import Image from "next/image";
 export default function Photos() {
   return (
     <div className="sm:mt-20 mb-20 ml-20 mr-20">
-      <div className="p-20">
+      <div className="lg:p-20 sm:p-0">
         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           Where creativity comes to life ✨
         </h2>
         <p className="mt-6 text-lg leading-8 text-gray-600 mb-5">
-          featured pieces
+          my featured pieces
         </p>
       </div>
       <div className="-my-4 flex flex-wrap justify-center gap-5 overflow-hidden py-4 sm:gap-8">
