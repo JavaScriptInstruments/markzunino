@@ -24,7 +24,6 @@ const navigation = {
     { name: "Terms", href: "#" },
   ],
 };
-
 export default function Example() {
   return (
     <footer className="bg-primary" aria-labelledby="footer-heading">
@@ -33,34 +32,8 @@ export default function Example() {
       </h2>
       <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8 lg:py-16">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
-          <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
-            <div className="md:grid md:grid-cols-2 md:gap-8 flex justify-between">
-              {/* <div>
-                <h3 className="text-sm font-semibold leading-6 text-white">Solutions</h3>
-                <ul role="list" className="mt-6 space-y-4">
-                  {navigation.solutions.map((item) => (
-                    <li key={item.name}>
-                      <a href={item.href} className="text-sm leading-6 text-gray-300 hover:text-white">
-                        {item.name}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div> */}
-              {/* <div className="mt-10 md:mt-0">
-                <h3 className="text-sm font-semibold leading-6 text-white">Support</h3>
-                <ul role="list" className="mt-6 space-y-4">
-                  {navigation.support.map((item) => (
-                    <li key={item.name}>
-                      <a href={item.href} className="text-sm leading-6 text-gray-300 hover:text-white">
-                        {item.name}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div> */}
-            </div>
-            <div className="md:grid md:grid-cols-2 md:gap-8">
+          <div className="mt-16 grid grid-cols-1 md:grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
+            <div className="md:grid md:grid-cols-1 md:gap-8">
               <div>
                 <h3 className="text-sm font-semibold leading-6 text-white">
                   Site Map
@@ -78,7 +51,9 @@ export default function Example() {
                   ))}
                 </ul>
               </div>
-              <div className="mt-10 md:mt-0">
+            </div>
+            <div className="md:grid md:grid-cols-1 md:gap-8">
+              <div>
                 <h3 className="text-sm font-semibold leading-6 text-white">
                   Legal
                 </h3>
@@ -98,7 +73,7 @@ export default function Example() {
             </div>
           </div>
         </div>
-        <h3 className="text-sm leading-6 text-white grid-cols-1 text-right">
+        <h3 className="text-sm leading-6 text-white text-right">
           Copyright © 2023 Mark Zunino. All Rights Reserved.
         </h3>
       </div>

@@ -29,7 +29,7 @@ export default function Test() {
           <div className="hidden sm:mb-8 sm:flex sm:justify-center"></div>
           <div className="text-center">
             <h1 className="text-4xl tracking-tight text-white sm:text-6xl whitespace-no-wrap overflow-hidden">
-              Review my work
+              Review My Work
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Welcome to my Portfolio Site.
